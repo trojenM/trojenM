@@ -26,7 +26,6 @@ Full-stack Developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/trojenM"><img src="https://github-readme-streak-stats.herokuapp.com/?user=trojenM&stroke=ffffff&background=581c87&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/trojenM"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=trojenM&bg_color=581c87&color=ffffff&line=f97316&point=ffffff&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <b>Top Repositories</b>
 
