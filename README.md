@@ -8,7 +8,7 @@ Full-stack Developer
   
   * 🌍  I'm based in Istanbul, Turkey
   * ✉️  You can contact me at [omur\_bilgin@outlook.com](mailto:omur_bilgin@outlook.com)
-  * 🚀  I'm currently working on [Next.js Web Applications](http://none.com)
+  * 🚀  I'm currently working on Next.js Web Applications: [code-to-image](https://code-to-image-app-phi.vercel.app)
   * 🧠  I'm learning Next.js framework
   * 🤝  I'm open to collaborating on projects
   * ⚡  Just a freshly graduated student loving code, tea and music :)
