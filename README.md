@@ -1,4 +1,4 @@
-Hi 👋 My name is Ömür Bilgin
+Hi 👋 I'm Ömür Bilgin
 ============================
 
 Full-stack Developer
